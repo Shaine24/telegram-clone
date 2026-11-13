@@ -2,6 +2,8 @@
 
 A Telegram-style, real-time web messenger built with **Next.js**, **Supabase** and **Tailwind CSS**, deployed on **Vercel**.
 
+**Live:** <https://telegram-clone-hazel-three.vercel.app>
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![React](https://img.shields.io/badge/React-19-149eca)
 ![Supabase](https://img.shields.io/badge/Supabase-Auth%20%2B%20Postgres%20%2B%20Realtime-3ecf8e)
